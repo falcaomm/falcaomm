@@ -1,5 +1,5 @@
 
-## Olá! me chamo Manuela Falcão, desenvolvedora front-end. 👋  
+## Olá! me chamo Manuela Falcão 👋  
 
 > Estudante de desenvolvimento Web Full Stack pelo bootcamp da Labenu. 
 
