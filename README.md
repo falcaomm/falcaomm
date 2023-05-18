@@ -1,7 +1,7 @@
 
 ## Olá! me chamo Manuela Falcão 👋  
 
-> Estudante de desenvolvimento Web Full Stack pelo bootcamp da Labenu. 
+> Estudante de desenvolvimento Web Full Stack pelo bootcamp da Labenu, aqui estão alguns projetos propostos pelo curso e pessoais com desenvolvidos com tecnologias fron-end e back-end.
 
 ##
 
